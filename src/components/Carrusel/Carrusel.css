@@ -1,0 +1,10 @@
+.slide{
+    margin-top: 10px;
+    margin-bottom: 25px;
+
+}
+
+.slide img{
+    height: auto;
+    object-fit: contain;
+}
