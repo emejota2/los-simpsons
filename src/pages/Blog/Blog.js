@@ -24,7 +24,7 @@ const Blog = () => {
                                 </p>
                             </div>
                             <div className="card">
-                                <h2>Episodio "Lucha educativa", Abril 16, 195</h2>
+                                <h2>Episodio "Lucha educativa", Abril 16, 1995</h2>
                                 <img src={blog2} width="450" height="380" alt="imagen del episodio de lucha educativa de los simpsons"/>
                                 <p className="pt-3">
                                 Edna Krabappel convoca a huelga para protestar contra el bajo
