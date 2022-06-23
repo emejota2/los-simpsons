@@ -1,7 +1,4 @@
-.bg-warning{
-    justify-content: space-between;
-}
-
-.card-body{
-    width: 70%
+.row-cols-1{
+    justify-content: space-around;
+    background-color: rgb(181, 186, 50);
 }

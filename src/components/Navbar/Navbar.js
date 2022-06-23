@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import React from 'react';
 import logo1 from '../../img/header-simpsons.gif'
 
@@ -14,13 +15,13 @@ const Navbar = () => {
                         <a className="navbar-brand"></a>
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page">Inicio</a>
+                            <Link className="nav-link" to="/">Inicio</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active">Blog</a>
+                            <Link className="nav-link" to="/blog">Blog</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active">Contacto</a>
+                            <Link className="nav-link" to="/contacto">Contacto</Link>
                         </li>
                     </ul>
                         <form className="d-flex">

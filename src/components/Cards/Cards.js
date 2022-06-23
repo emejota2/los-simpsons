@@ -7,7 +7,7 @@ import './Cards.css'
 const Cards = () => {
     return(
         <>
-        <div className="row bg-warning row-cols-1 row-cols-md-3 g-4 p-5 bg-teal-500">
+        <div className="row row-cols-1 row-cols-md-3 g-4 p-4">
         <div className="col-sm-3">
             <div className="card">
             <img src={maggie} className="card-img-top" alt="maggie"/>
