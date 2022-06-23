@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/los-simpsons/static/css/main.a9c83517.chunk.css",
-    "main.js": "/los-simpsons/static/js/main.04489e01.chunk.js",
-    "main.js.map": "/los-simpsons/static/js/main.04489e01.chunk.js.map",
+    "main.css": "/los-simpsons/static/css/main.4c945b70.chunk.css",
+    "main.js": "/los-simpsons/static/js/main.eb9e06fc.chunk.js",
+    "main.js.map": "/los-simpsons/static/js/main.eb9e06fc.chunk.js.map",
     "runtime-main.js": "/los-simpsons/static/js/runtime-main.f9ba8be9.js",
     "runtime-main.js.map": "/los-simpsons/static/js/runtime-main.f9ba8be9.js.map",
     "static/css/2.4be38407.chunk.css": "/los-simpsons/static/css/2.4be38407.chunk.css",
@@ -10,10 +10,8 @@
     "static/js/2.15a6ccfb.chunk.js.map": "/los-simpsons/static/js/2.15a6ccfb.chunk.js.map",
     "index.html": "/los-simpsons/index.html",
     "static/css/2.4be38407.chunk.css.map": "/los-simpsons/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.a9c83517.chunk.css.map": "/los-simpsons/static/css/main.a9c83517.chunk.css.map",
+    "static/css/main.4c945b70.chunk.css.map": "/los-simpsons/static/css/main.4c945b70.chunk.css.map",
     "static/js/2.15a6ccfb.chunk.js.LICENSE.txt": "/los-simpsons/static/js/2.15a6ccfb.chunk.js.LICENSE.txt",
-    "static/media/carrousel-1.9b34cf9c.jpg": "/los-simpsons/static/media/carrousel-1.9b34cf9c.jpg",
-    "static/media/carrousel-2.fd912352.jpg": "/los-simpsons/static/media/carrousel-2.fd912352.jpg",
     "static/media/carrousel-3.424560c4.jpg": "/los-simpsons/static/media/carrousel-3.424560c4.jpg",
     "static/media/lucha-educativa.b71914c4.jpg": "/los-simpsons/static/media/lucha-educativa.b71914c4.jpg",
     "static/media/noche-de-brujas.bfea05f0.png": "/los-simpsons/static/media/noche-de-brujas.bfea05f0.png"
@@ -22,7 +20,7 @@
     "static/js/runtime-main.f9ba8be9.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.15a6ccfb.chunk.js",
-    "static/css/main.a9c83517.chunk.css",
-    "static/js/main.04489e01.chunk.js"
+    "static/css/main.4c945b70.chunk.css",
+    "static/js/main.eb9e06fc.chunk.js"
   ]
 }
