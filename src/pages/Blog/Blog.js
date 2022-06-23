@@ -15,7 +15,7 @@ const Blog = () => {
                                 <h2>Episodio "Especial de Noche de Brujas VII", Octubre 27, 1996</h2>
                                 <img src={blog1} width="450" height="380" alt="imagen del episodio noche de brujas de los simpsons"/>
                                 <p className="pt-3">
-                                Marge le advierte a ustedes la audiencia que este episodio puede
+                                Marge le advierte a ustedes, la audiencia que este episodio puede
                                 provocar mucho miedo en algunos espectadores y le dice a los padres
                                 que manden a sus niños a dormir. Luego, se muestra a Homer, quien
                                 acababa de robarle sus dulces a un grupo de niños, espiando a Bart y a
