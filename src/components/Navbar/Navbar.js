@@ -15,7 +15,7 @@ const Navbar = () => {
                         <a className="navbar-brand"></a>
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <Link className="nav-link" to="/">Inicio</Link>
+                            <Link className="nav-link" to="/los-simpsons">Inicio</Link>
                         </li>
                         <li className="nav-item">
                             <Link className="nav-link" to="/blog">Blog</Link>
