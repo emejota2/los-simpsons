@@ -7,10 +7,10 @@ import './Cards.css'
 const Cards = () => {
     return(
         <>
-        <div className="row row-cols-1 row-cols-md-3 g-4 p-4">
-        <div className="col-sm-3">
-            <div className="card">
-            <img src={maggie} className="card-img-top" alt="maggie"/>
+        <div className="row row-cols-1 row-cols-md-3 g-3 p-4">
+        <div className="col-sm-4 justify-content-center d-flex">
+            <div className="card" style={{width:300}}>
+            <img src={maggie} className="card-img-top p-2" alt="maggie"/>
             <div className="card-body">
                 <h5 className="card-title">Maggie</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. </p>
@@ -18,9 +18,9 @@ const Cards = () => {
             </div>
             </div>
         </div>
-        <div className="col-sm-3">
-            <div className="card">
-            <img src={homer} className="card-img-top" alt="Homer"/>
+        <div className="col-sm-4 justify-content-center d-flex">
+            <div className="card" style={{width:300}}>
+            <img src={homer} className="card-img-top p-2" alt="Homer"/>
             <div className="card-body">
                 <h5 className="card-title">Homero</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. </p>
@@ -28,9 +28,9 @@ const Cards = () => {
             </div>
             </div>
         </div>
-        <div className="col-sm-3">
-            <div className="card">
-            <img src={bart} className="card-img-top" alt="Bart"/>
+        <div className="col-sm-4 justify-content-center d-flex">
+            <div className="card" style={{width:300}}>
+            <img src={bart} className="card-img-top p-2" alt="Bart"/>
             <div className="card-body">
                 <h5 className="card-title">Bart</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>

@@ -1,10 +1,7 @@
-.slide{
-    margin-top: 10px;
-    margin-bottom: 25px;
-
+.image{
+    margin-bottom: 23px;
 }
 
-.slide img{
-    height: auto;
-    object-fit: contain;
-}
+.image img{
+    object-fit: cover;
+} 

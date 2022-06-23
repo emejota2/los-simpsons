@@ -5,5 +5,9 @@
 
 .form-label{
     font-weight:bolder
+}
 
+.container{
+    background-color: aliceblue;
+    width: 45%;
 }

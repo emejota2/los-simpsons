@@ -3,12 +3,10 @@
     padding: 5vh 2vh 5vh 2vh;
 }
 
-.container{
-    background-color: white;
-    width: 80%;
-    padding: 0!important
+.w-100{
+    background-color: white !important;
 }
 
-.card{
-    padding: 5vh 1vh 2vh;
+.card-body{
+    padding-top: 6vh;
 }

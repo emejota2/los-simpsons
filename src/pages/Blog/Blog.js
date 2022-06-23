@@ -10,10 +10,10 @@ const Blog = () => {
         <>
             <Navbar/>
                 <div className="background">
-                        <div className="container">
-                            <div className="card">
+                        <div className="container w-100">
+                            <div className="card-body">
                                 <h2>Episodio "Especial de Noche de Brujas VII", Octubre 27, 1996</h2>
-                                <img src={blog1} width="450" height="380" alt="imagen del episodio noche de brujas de los simpsons"/>
+                                <img src={blog1} className="img-fluid" width="500" height="380" alt="imagen del episodio noche de brujas de los simpsons"/>
                                 <p className="pt-3">
                                 Marge le advierte a ustedes, la audiencia que este episodio puede
                                 provocar mucho miedo en algunos espectadores y le dice a los padres
@@ -23,9 +23,9 @@ const Blog = () => {
                                 historias de terror.
                                 </p>
                             </div>
-                            <div className="card">
+                            <div className="card-body">
                                 <h2>Episodio "Lucha educativa", Abril 16, 1995</h2>
-                                <img src={blog2} width="450" height="380" alt="imagen del episodio de lucha educativa de los simpsons"/>
+                                <img src={blog2} className="img-fluid" width="500" height="380" alt="imagen del episodio de lucha educativa de los simpsons"/>
                                 <p className="pt-3">
                                 Edna Krabappel convoca a huelga para protestar contra el bajo
                                 presupuesto que invertía el director Skinner en la escuela. Bart

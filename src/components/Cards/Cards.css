@@ -1,4 +1,13 @@
 .row-cols-1{
     justify-content: space-around;
     background-color: rgb(181, 186, 50);
+    
 }
+
+.col-sm-4{
+    height: 70%
+}
+
+
+
+
